@@ -6,9 +6,6 @@ I'm mostly interested in Machine learining, especially in Reinforcement learning
 
 Zaczynałem od C++ stricte pod wydajność, z czasem zaczęło mnie denerowować że w konsoli trudno zobaczyć efekt swojej pracy więc spróbowałem p5.js-prostego frameworku do tworzenia animacji w oknie przeglądarki. Aktualnie uczę się Pythona. 
 
-```markdown
-Syntax highlighted code block
-
 # Modules 
 
 - TensorFlow
