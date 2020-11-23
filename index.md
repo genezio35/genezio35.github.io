@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to my personal github site
 
-You can use the [editor on GitHub](https://github.com/genezio35/genezio35.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm mostly interested in Machine learining, especially in Reinforcement learning. You will surely see my upcoming projects on ma github in the future
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Języki programowania
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Zaczynałem od C++ stricte pod wydajność, z czasem zaczęło mnie denerowować że w konsoli trudno zobaczyć efekt swojej pracy więc spróbowałem p5.js-prostego frameworku do tworzenia animacji w oknie przeglądarki. Aktualnie uczę się Pythona. 
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Modules 
 
-- Bulleted
-- List
+- TensorFlow
+- Pygame
+- Numba
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Zapraszam do współpracy!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/genezio35/genezio35.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Jeżeli masz ciekawy problem związany z ML odezwij się! Z chęcią pomogę.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: genezio35@gmail.com
